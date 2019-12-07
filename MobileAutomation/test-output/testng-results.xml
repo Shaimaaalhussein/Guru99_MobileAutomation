@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestResult Suite" duration-ms="59386" started-at="2019-12-07T11:54:16Z" finished-at="2019-12-07T11:55:15Z">
+    <groups>
+    </groups>
+    <test name="TestResult" duration-ms="59386" started-at="2019-12-07T11:54:16Z" finished-at="2019-12-07T11:55:15Z">
+      <class name="Utilities.ExtentsReportUtil">
+        <test-method status="PASS" signature="report()[pri:0, instance:Utilities.ExtentsReportUtil@5b464ce8]" name="report" is-config="true" duration-ms="891" started-at="2019-12-07T13:54:15Z" finished-at="2019-12-07T13:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="Endreport()[pri:0, instance:Utilities.ExtentsReportUtil@5b464ce8]" name="Endreport" is-config="true" duration-ms="977" started-at="2019-12-07T13:55:15Z" finished-at="2019-12-07T13:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endreport -->
+      </class> <!-- Utilities.ExtentsReportUtil -->
+      <class name="Tests.SapCateogry">
+        <test-method status="PASS" signature="Capabilities()[pri:0, instance:Tests.SapCateogry@57829d67]" name="Capabilities" is-config="true" duration-ms="43294" started-at="2019-12-07T13:54:16Z" finished-at="2019-12-07T13:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Capabilities -->
+        <test-method status="PASS" signature="sapCourse()[pri:0, instance:Tests.SapCateogry@57829d67]" name="sapCourse" duration-ms="16061" started-at="2019-12-07T13:54:59Z" finished-at="2019-12-07T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sapCourse -->
+      </class> <!-- Tests.SapCateogry -->
+    </test> <!-- TestResult -->
+  </suite> <!-- TestResult Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestResult Suite">
+	<test name="TestResult">
+		<classes>
+			<class name="Utilities.ExtentsReportUtil" />
+			
+			<class name="Tests.SapCateogry" />
+				
+		</classes>
+	</test>
+</suite>
